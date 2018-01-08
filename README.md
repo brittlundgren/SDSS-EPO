@@ -1,1 +1,1 @@
-# SDSS_EPO
+#  SDSS Educational Activities using SciServer Notebooks
