@@ -4,19 +4,14 @@ This set of Jupyter notebooks and other resources were produced by Britt Lundgre
 
 **An example course structure using these notebooks is provided below:**
 
-Week 1: An introduction to the Sloan Digital Sky Survey 
-             (see the included slides: "Week1_SDSSintro_brief.pdf")\n
-Week 2: Introduction to Python
-
-Week 3: Data visualization and Querying the SDSS Database
-
-Week 4: Visualizing and Modeling H-R Diagrams
-
-Week 5: Building a Sample for Citizen Science with Galaxy Zoo
-
-Week 6: Spectroscopic Identification and Redshift Determination
-
-Weeks 7-12: Reserved for guided independent research  
+- Week 1: An introduction to the Sloan Digital Sky Survey 
+             (see the included slides: "Week1_SDSSintro_brief.pdf")
+- Week 2: Introduction to Python
+- Week 3: Data visualization and Querying the SDSS Database
+- Week 4: Visualizing and Modeling H-R Diagrams
+- Week 5: Building a Sample for Citizen Science with Galaxy Zoo
+- Week 6: Spectroscopic Identification and Redshift Determination
+- Weeks 7-12: Reserved for guided independent research  
               (see the example projects document: "Project_descriptions_SDSSEPO.pdf")
 
 
