@@ -5,7 +5,7 @@ This set of Jupyter notebooks and other resources were produced by Britt Lundgre
 **An example course structure using these notebooks is provided below:**
 
 - Week 1: An introduction to the Sloan Digital Sky Survey 
-             (see the included slides: "Week1_SDSSintro_brief.pdf")
+             (see the [included slides](SciServer_notebooks/Week1_SDSSintro_brief.pdf))
 - Week 2: Introduction to Python
 - Week 3: Data visualization and Querying the SDSS Database
 - Week 4: Visualizing and Modeling H-R Diagrams
