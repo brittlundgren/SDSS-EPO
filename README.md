@@ -1,6 +1,6 @@
 # SDSS Educational Activities using SciServer Notebooks
 
-This set of Jupyter notebooks and other resources were produced by Britt Lundgren (blundgre@unca.edu) and tested in upper-level undergraduate astronomy labs at the University of North Carolina Asheville.  The included activities are designed to equip university students with the basic skills to perform astronomy research with large datasets. They can be used in a sequence of 2-hour lab sessions for half of a 12-week semester, leaving the second half of the semester for guided independent research.  
+This set of Jupyter notebooks and other resources were produced by Britt Lundgren and tested in upper-level undergraduate astronomy labs at the University of North Carolina Asheville.  The included activities are designed to equip university students with the basic skills to perform astronomy research with large datasets. They can be used in a sequence of 2-hour lab sessions for half of a 12-week semester, leaving the second half of the semester for guided independent research.  
 
 **An example course structure using these notebooks is provided below:**
 
