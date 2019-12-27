@@ -11,8 +11,7 @@ This set of Jupyter notebooks and other resources were produced by Britt Lundgre
 - Week 4: Visualizing and Modeling H-R Diagrams
 - Week 5: Building a Sample for Citizen Science with Galaxy Zoo
 - Week 6: Spectroscopic Identification and Redshift Determination
-- Weeks 7-12: Reserved for guided independent research  
-              (see the [example projects document](SciServer_notebooks/Project_descriptions_SDSSEPO.pdf))
+- Weeks 7-12: Reserved for guided independent research  (see the [example projects document](SciServer_notebooks/Project_descriptions_SDSSEPO.pdf))
 
 
 These Jupyter notebooks are designed to be run from the SciServer Compute environment (http://www.sciserver.org/tools/compute/). SciServer provides a web-based platform for interacting with the vast database of astronomical imaging and spectroscopy from the Sloan Digital Sky Survey (SDSS; York et al. 2000).  All of the computing is done in the cloud, so there's no need to download anything to a local computer.  The only thing required to get started exploring the universe is a web browser! 
