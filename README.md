@@ -5,8 +5,7 @@ This set of Jupyter notebooks and other resources were produced by Britt Lundgre
 **An example course structure using these notebooks is provided below:**
 
 Week 1: An introduction to the Sloan Digital Sky Survey 
-             (see the included slides: "Week1_SDSSintro_brief.pdf")
-             
+             (see the included slides: "Week1_SDSSintro_brief.pdf")\n
 Week 2: Introduction to Python
 
 Week 3: Data visualization and Querying the SDSS Database
@@ -21,7 +20,7 @@ Weeks 7-12: Reserved for guided independent research
               (see the example projects document: "Project_descriptions_SDSSEPO.pdf")
 
 
-These Jupyter notebooks are designed to be run from the SciServer Compute environment  (http://www.sciserver.org/tools/compute/). SciServer provides a web-based platform for interacting with the vast database of astronomical imaging and spectroscopy from the Sloan Digital Sky Survey (SDSS; York et al. 2000).  All of the computing is done in the cloud, so there's no need to download anything to a local computer.  The only thing required to get started exploring the universe is a web browser! 
+These Jupyter notebooks are designed to be run from the SciServer Compute environment (http://www.sciserver.org/tools/compute/). SciServer provides a web-based platform for interacting with the vast database of astronomical imaging and spectroscopy from the Sloan Digital Sky Survey (SDSS; York et al. 2000).  All of the computing is done in the cloud, so there's no need to download anything to a local computer.  The only thing required to get started exploring the universe is a web browser! 
 
 Instructions for setting up a free account on SciServer can be found in the included document: "SciServer_registration_instructions.pdf"
 
